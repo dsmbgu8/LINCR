@@ -1,0 +1,1 @@
+LINCR continuum removal library, version 0.2 (Thu May 21 09:12:25 PDT 2015)
