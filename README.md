@@ -130,7 +130,3 @@ regarding this program.
 
 08/11/14 - added Matlab functions
 
-
-## Copyright 
-
-Copyright 2010-2012 Rice University
