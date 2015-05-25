@@ -1,9 +1,5 @@
 # LINCR: Library for (piecewise) LINear Continuum Removal 
 
-## Usage 
-
-Please see README_C.txt or README_PYTHON.txt for usage information for
-the standalone (C) and python versions, respectively.
 
 ## Algorithm summary 
 
