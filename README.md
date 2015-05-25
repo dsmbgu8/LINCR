@@ -23,7 +23,6 @@ where spectrum is the input spectrum, continuum is the estimated
 continuum, and `i` is the index of the `i`th band.
 
 
-
 ## Build / Standalone C version
 
 ### Requirements
@@ -34,9 +33,6 @@ continuum, and `i` is the index of the `i`th band.
 
 To build the demo program "cr" just run "make". 
 
-Tested on:  
-- OSX 10.6
-- gcc 4.0
 
 
 ### Input / Output file formats
