@@ -3,7 +3,7 @@
 
 ## Algorithm summary 
 
-Calculates the continuum-removed signature for a given spectrum. We
+Calculates the continuum-removed signature of a hyperspectral spectrum (see e.g., http://speclab.cr.usgs.gov/PAPERS/tetracorder/, Figure 1A). We
 first locate the concave inflection points in the spectrum and connect
 them via straight line segments, forming the initial approximation to
 the continuum. Next we locate the bands for which this piecewise
@@ -118,8 +118,4 @@ variable in lincr.c.
 
 Please contact the author (bbue@alumni.rice.edu) if you have any questions
 regarding this program.
-
-## Changelog 
-
-08/11/14 - added Matlab functions
 
