@@ -68,6 +68,7 @@ This will produce the output file "crdat.txt" of the format given above.
 ### Requirements
 - Python 2.6
 - numpy 1.6.1
+- swig
 - numpy.i (http://docs.scipy.org/doc/numpy/reference/swig.interface-file.html)
 - matplotlib (optional, for plotting spectra)
 
